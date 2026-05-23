@@ -1,6 +1,6 @@
 {
   "outdir": "./output",
-  "clientID": "PASTE_YOUR_UNIQUE_UUID_HERE",
+  "clientID": "9213a2a0-e6b5-44d8-a494-4cdf9a8c5e44",
   "mapping": {
     "us": "45.50.96.71",
     "uk": "51.89.255.67",
